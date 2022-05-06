@@ -1,3 +1,11 @@
+body{
+    background-image: url(wp6543661-car-drifting-4k-desktop-wallpapers.jpg);
+    background-size: cover;
+    /*background-image: url(wp5619549-4k-desktop-car-wallpapers.jpg);
+    background-size: cover;
+    color:rgb(42, 132, 165);*/
+}
+
 #Dados
 {
     /*background-color: aqua;*/
@@ -9,11 +17,21 @@
 {
     /*background-color: blanchedalmond;*/
     color:darkgrey;
+    border: 5px solid;
 }
 
 #Check
 { 
     /*background-color: gold;*/
     color:goldenrod;
+    border: 5px solid;
 
 }
+
+#lo
+{
+    color:greenyellow;
+    text-align: center;
+
+}
+
