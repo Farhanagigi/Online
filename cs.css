@@ -1,19 +1,19 @@
 #Dados
 {
-    background-color: aqua;
-    color:azure;
+    /*background-color: aqua;*/
+    color:rgb(27, 137, 137);
     border: 5px solid;
 }
 
 #salto
 {
-    background-color: blanchedalmond;
+    /*background-color: blanchedalmond;*/
     color:darkgrey;
 }
 
 #Check
 { 
-    background-color: gold;
+    /*background-color: gold;*/
     color:goldenrod;
 
 }
